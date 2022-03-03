@@ -2,12 +2,12 @@
 
 Console.WriteLine("Podaj pin");
 Console.WriteLine("Podaj pin");
+Console.WriteLine("Podasdfj pin");
 Console.WriteLine("Podaj pin");
+Console.WriteLine("dfasgjsdfkgh");
+Console.WriteLine("Podaasdfasd pin");
 Console.WriteLine("Podaj pin");
-Console.WriteLine("Podaj pin");
-Console.WriteLine("Podaj pin");
-Console.WriteLine("Podaj pin");
-Console.WriteLine("Podaj pin");
+Console.WriteLine("Podaj dsafpin");
 Console.WriteLine("Podaj pin");
 Console.WriteLine("Podaj pin");
 
