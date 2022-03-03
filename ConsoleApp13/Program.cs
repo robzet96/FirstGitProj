@@ -1,15 +1,15 @@
 ﻿int correctPin = 1111;
 
-Console.WriteLine("Podaj pin");
-Console.WriteLine("Podaj pin");
-Console.WriteLine("Podasdfj pin");
-Console.WriteLine("Podaj pin");
-Console.WriteLine("dfasgjsdfkgh");
-Console.WriteLine("Podaasdfasd pin");
-Console.WriteLine("Podaj pin");
-Console.WriteLine("Podaj dsafpin");
-Console.WriteLine("Podaj pin");
-Console.WriteLine("Podaj pin");
+Console.WriteLine("Ppin");
+Console.WriteLine("Po pin");
+Console.WriteLine("Podin");
+Console.WriteLine("Poin");
+Console.WriteLine("Popin");
+Console.WriteLine("Po pin");
+Console.WriteLine("Ppin");
+Console.WriteLine("Pj pin");
+Console.WriteLine("Ppin");
+Console.WriteLine("Po pin");
 
 for (int i = 2; i >= 0; i--)
 {
