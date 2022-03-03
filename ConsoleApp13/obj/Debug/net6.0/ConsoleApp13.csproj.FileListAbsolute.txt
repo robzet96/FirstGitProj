@@ -1,0 +1,15 @@
+C:\Users\dasad\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\net6.0\ConsoleApp13.exe
+C:\Users\dasad\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\net6.0\ConsoleApp13.deps.json
+C:\Users\dasad\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\net6.0\ConsoleApp13.runtimeconfig.json
+C:\Users\dasad\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\net6.0\ConsoleApp13.dll
+C:\Users\dasad\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\net6.0\ref\ConsoleApp13.dll
+C:\Users\dasad\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\net6.0\ConsoleApp13.pdb
+C:\Users\dasad\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.csproj.AssemblyReference.cache
+C:\Users\dasad\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dasad\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.AssemblyInfoInputs.cache
+C:\Users\dasad\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.AssemblyInfo.cs
+C:\Users\dasad\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.csproj.CoreCompileInputs.cache
+C:\Users\dasad\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.dll
+C:\Users\dasad\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ref\ConsoleApp13.dll
+C:\Users\dasad\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.pdb
+C:\Users\dasad\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.genruntimeconfig.cache
